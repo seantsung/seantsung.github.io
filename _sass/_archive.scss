@@ -84,6 +84,75 @@
   }
 }
 
+// Publications use plain titles; keep hover from underlining the heading.
+.archive__item--publication:hover {
+  .archive__item-title {
+    text-decoration: none;
+  }
+}
+
+.archive__item--publication {
+  margin-bottom: 0.45em;
+
+  .archive__item-title {
+    font-size: $main-body-text-scale;
+    margin-bottom: 0.35em;
+  }
+
+  p {
+    font-size: $main-body-text-scale;
+    margin: 0 0 0.35em;
+  }
+
+  p:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+.page__content .section-heading {
+  font-size: 1.35em;
+  font-family: $sans-serif-narrow;
+  margin-top: 1em;
+  margin-bottom: 0.6em;
+}
+
+.page__content .about-content p,
+.page__content .about-content li {
+  font-size: $main-body-text-scale;
+}
+
+.page__content .about-content > .section-heading:first-child {
+  margin-top: 0.2em;
+}
+
+.page__content .pub-category-heading {
+  font-size: 1.15em;
+  margin-top: 1em;
+  margin-bottom: 0.4em;
+}
+
+.page__content .education-section p {
+  margin-bottom: 0.2em;
+}
+
+.page__content .education-subpoints {
+  margin-top: 0;
+  margin-bottom: 0.6em;
+}
+
+.page__content .education-subpoints li {
+  margin-bottom: 0;
+}
+
+.page__content .cofirst-note {
+  margin-top: 0 !important;
+  padding-top: 1em;
+}
+
+.archive__item-title .pub-inline-link {
+  font-weight: normal;
+}
+
 
 /*
    List view
