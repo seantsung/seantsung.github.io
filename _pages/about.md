@@ -17,12 +17,11 @@ redirect_from:
 
 <div class="education-section">
   <h3 class="pub-category-heading">Stanford University</h3>
-  <p>
-  Ph.D. in Management Science and Engineering (in progress)<br />
-  M.S. in Epidemiology and Clinical Research (concurrent program, admitted 2025)</p>
+  <p>Ph.D. in Management Science and Engineering (in progress)</p>
   <ul class="education-subpoints">
     <li>Ph.D. Minor in Biomedical Data Science</li>
   </ul>
+  <p>M.S. in Epidemiology and Clinical Research (concurrent program, admitted 2025)</p>
 
   <h3 class="pub-category-heading">University of California, Berkeley</h3>
   <p>
