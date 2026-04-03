@@ -63,7 +63,7 @@ redirect_from:
 <h2 id="teaching" class="section-heading">Teaching</h2>
 <h3 class="pub-category-heading">Teaching Assistant</h3>
 <p>The Ethical Analyst<br /><i>Spring 2025, Spring 2026</i></p>
-<p>Optimization and Simulation Modeling (MBA core)<br /><i>Autumn 2025</i></p>
+<p>Optimization and Simulation Modeling (MBA Core)<br /><i>Autumn 2025</i></p>
 <p>Healthcare Operations Management<br /><i>Winter 2026</i></p>
 
 </div>
