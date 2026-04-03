@@ -8,6 +8,8 @@ date: 2026-01-02
 authors: "Sean Tsung*, Yan Bo Zeng*, Kevan Shah, Steven Asch, Joshua A. Salomon, Douglas K. Owens, and Kevin Chen"
 venue: "Pediatrics"
 paperurl: "https://doi.org/10.1542/peds.2025-071558"
+media_coverage_label: "Medical Tribune"
+media_coverage_url: "https://medical-tribune.co.jp/theme/doctors-eye/articles/?blogid=11&entryid=571171"
 status: "Published"
 citation: "Sean Tsung*, Yan Bo Zeng*, Kevan Shah, Steven Asch, Joshua A. Salomon, Douglas K. Owens, and Kevin Chen. (2026). &quot;Cost-Effectiveness of Nirsevimab and Maternal RSVpreF Vaccination Strategies in Low-Risk Infants.&quot; <i>Pediatrics</i>."
 ---
