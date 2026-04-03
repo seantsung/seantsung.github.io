@@ -137,7 +137,11 @@
 
 .page__content .education-subpoints {
   margin-top: 0;
-  margin-bottom: 0.6em;
+  margin-bottom: 0.2em;
+}
+
+.page__content .education-subpoints + p {
+  margin-top: 0;
 }
 
 .page__content .education-subpoints li {
